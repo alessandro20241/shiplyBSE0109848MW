@@ -1,0 +1,43 @@
+{
+  "BSE0109848MW": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Victor Dieter Jensen, Möwenstraße 8, 18209 Bad Doberan, Deutschland",
+    "receiver": "Lorenz Kuhlmann, Am Nössel 12, 34132 Kassel, Deutschland",
+    "price": "10.900 €",
+    "description": "Hersteller: BMW <br>Typ: K 1600 GT <br> Fahrgestelnummer: WB10F2101P6H72961 <br> Erstzulassung: 07/2023 <br><br> KM laut Vorbesitzer: 16.323 km <br> Leistung: 160 PS (118 kW) <br> Hubraum: 1.649 cm³ <br> Anschluss-Garantie: 10/07/2028 <br> Viele Extras. <br> Alle Originalteile vorhanden. <br> Fahrzeug ist makellos. <br> Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall. <br> Deutsch Zulassung. Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Lorenz Kuhlmann<br> Am Nössel 12<br> 34132 Kassel<br>Deutschland<br>Telefon: +49 172 5644962",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "08-10-2026",
+    "deliveryDate": "20-10-2026",
+    "pickup": {
+      "street": "Möwenstraße 8",
+      "postal_code": "18209",
+      "city": "Bad Doberan",
+      "country": "Deutschland"
+    },
+    "delivery": {
+      "street": "Am Nössel 12",
+      "postal_code": "34132",
+      "city": "Kassel",
+      "country": "Deutschland"
+    }
+  }
+}
